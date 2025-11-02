@@ -1,4 +1,4 @@
-#🖱️ How did you implement event handling for user actions?
+# 🖱️ How did you implement event handling for user actions?
 
 I used Kotlin’s setOnClickListener to handle the button click event.
 When the user presses Submit, the app gets the text from the name and age fields and displays it inside the output card. If the fields are empty or invalid, a Toast message appears to remind the user to fill everything in correctly.
