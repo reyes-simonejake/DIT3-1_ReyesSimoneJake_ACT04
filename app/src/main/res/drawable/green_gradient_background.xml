@@ -1,0 +1,10 @@
+<!-- You might want to rename this file to "aurora_gradient.xml" -->
+<!-- To rename: Right-click the file in Android Studio -> Refactor -> Rename -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="135"
+        android:startColor="#004D40"
+        android:centerColor="#4A148C"
+        android:endColor="#C2185B"
+        android:type="linear" />
+</shape>
